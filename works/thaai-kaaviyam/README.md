@@ -28,12 +28,12 @@ Visible structure established at intake:
 
 ## Current phase
 
-**Part 001 Pass 1 ACTIVE — 50/135 captured.**
+**Part 001 Pass 1 ACTIVE — 60/135 captured.**
 
-- Batches 001–005 / scans 1–50 — COMPLETE / PASS
-- all 50 page records remain textual `needs-review` and visual `needs-review`
-- scans 46–47 — full-page illustrations
-- scan 48 — section (4) begins
-- 50→51 — GENUINE CONTINUATION, established from scan-51 boundary witness only
+- Batches 001–006 / scans 1–60 — COMPLETE / PASS
+- all 60 page records remain textual `needs-review` and visual `needs-review`
+- scan 57 — sparse closure of section (4)
+- scan 58 — section (5) begins
+- 60→61 — CLEAN; same meeting continues, but no sentence/quote is split across the physical boundary
 
-Next: **Pass 1 Batch 006 — scans 51–60**.
+Next: **Pass 1 Batch 007 — scans 61–70**.
