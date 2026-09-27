@@ -30,10 +30,16 @@ Source:
 - scan 135 — printed page 116
 - 135→Part002 — **not yet auditable; Part002 not supplied**
 
-Part 002 and Part 003 metadata/ranges must not be invented before upload.
+### Current Pass-1 state
+
+- Batch 001 / scans **1–10** — **COMPLETE / PASS**
+- page records — **10/135**
+- statuses — **10 needs-review / 10 visual needs-review**
+- **10→11 GENUINE CONTINUATION** from boundary-witness inspection
+- Part 002 and Part 003 metadata/ranges remain intentionally unknown until upload.
 
 ## Exact next activity
 
-**Part 001 Pass 1 — scans 1–10.**
+**Part 001 Pass 1 Batch 002 — scans 11–20 / part pages 11–20.**
 
-Create page-aligned Tamil records under `works/thaai-kaaviyam/pages/`. Keep new records `needs-review`; do not assign `verified` during Pass 1.
+Create the next ten page-aligned Tamil records. Keep new records `needs-review`; do not assign `verified` during Pass 1.
