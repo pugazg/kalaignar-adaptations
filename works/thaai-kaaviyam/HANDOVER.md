@@ -18,22 +18,21 @@ Source: `TVA_BOK_0065557_கலைஞரின்_கவிதை_நடைய�
 
 ## Pass 1
 
-- Batch 001 — **COMPLETE / PASS 10/10**
-- Batch 002 — **COMPLETE / PASS 10/10**
-- Batch 003 — **COMPLETE / PASS 10/10**
-- Batch 004 — **COMPLETE / PASS 10/10**
-- captured range — **scans 1–40**
-- page records — **40**
-- textual status — **40 needs-review**
-- visual fidelity — **40 needs-review**
+- Batches 001–005 — **COMPLETE / PASS 50/50**
+- captured range — **scans 1–50**
+- page records — **50**
+- textual status — **50 needs-review**
+- visual fidelity — **50 needs-review**
 - scan 28 — illustration-only physical page
 - scan 29 — section **(2)** begins
 - scan 37 — section **(3)** begins
-- scan 41 inspected only as boundary witness
-- **40→41 GENUINE CONTINUATION**
+- scans 46–47 — illustration-only physical pages
+- scan 48 — section **(4)** begins
+- scan 51 inspected only as boundary witness
+- **50→51 GENUINE CONTINUATION**
 
 Do not infer Part 002 or Part 003 metadata before those files are supplied.
 
 ## Next activity
 
-**Part 001 Pass 1 / Batch 005 — scans 41–50.**
+**Part 001 Pass 1 / Batch 006 — scans 51–60.**
