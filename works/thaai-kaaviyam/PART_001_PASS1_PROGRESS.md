@@ -6,15 +6,16 @@ Source range: **global scans 1–135 / local Part pages 1–135**.
 
 - source intake — **COMPLETE / PASS**
 - Pass 1 — **ACTIVE**
-- captured pages — **20/135**
-- current canonical page records — **20**
-- current captured range — **scans 1–20**
-- current textual status — **20 needs-review**
-- current visual fidelity — **20 needs-review**
+- captured pages — **30/135**
+- current canonical page records — **30**
+- current captured range — **scans 1–30**
+- current textual status — **30 needs-review**
+- current visual fidelity — **30 needs-review**
 - Batch 001 record — `works/thaai-kaaviyam/PASS1_BATCH_001.md`
 - Batch 002 record — `works/thaai-kaaviyam/PASS1_BATCH_002.md`
-- latest boundary witness — **20→21 GENUINE CONTINUATION**
-- next batch — **scans 21–30 / part pages 21–30**
+- Batch 003 record — `works/thaai-kaaviyam/PASS1_BATCH_003.md`
+- latest boundary witness — **30→31 GENUINE CONTINUATION**
+- next batch — **scans 31–40 / part pages 31–40**
 
 ## Batch ledger
 
@@ -22,8 +23,8 @@ Source range: **global scans 1–135 / local Part pages 1–135**.
 |---|---:|---:|---|
 | P1-01 | 1–10 | 1–10 | COMPLETE / PASS |
 | P1-02 | 11–20 | 11–20 | COMPLETE / PASS |
-| P1-03 | 21–30 | 21–30 | NEXT |
-| P1-04 | 31–40 | 31–40 | pending |
+| P1-03 | 21–30 | 21–30 | COMPLETE / PASS |
+| P1-04 | 31–40 | 31–40 | NEXT |
 | P1-05 | 41–50 | 41–50 | pending |
 | P1-06 | 51–60 | 51–60 | pending |
 | P1-07 | 61–70 | 61–70 | pending |
