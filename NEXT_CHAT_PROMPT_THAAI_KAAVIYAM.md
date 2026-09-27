@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தாய் காவியம் / Part001 Pass1 Batch1 — scans1–10
+# NEXT CHAT PROMPT — தாய் காவியம் / Part001 Pass1 Batch2 — scans11–20
 
 Continue directly in `pugazg/kalaignar-adaptations`, branch `main`, active work `works/thaai-kaaviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,8 +30,22 @@ Follow the Kuraloviyam multi-PDF archival methodology:
 - scan 135 — printed page 116
 - outgoing 135→Part002 — **UNRESOLVED / Part002 not supplied**
 
+## Durable Pass-1 state
+
+Batch 001 / scans **1–10** is **COMPLETE / PASS**.
+
+- page records — **10/135**
+- textual state — **10 needs-review**
+- visual state — **10 needs-review**
+- exact page-layer capture — **10 added page files**
+- scan 11 was inspected only as boundary witness and not captured
+- **10→11 GENUINE CONTINUATION**
+- durable batch record — `works/thaai-kaaviyam/PASS1_BATCH_001.md`
+
 ## Exact next activity
 
-**Pass 1 Batch 1 — scans 1–10.**
+**Pass 1 Batch 002 — scans 11–20 / part pages 11–20.**
 
-Create ten page-aligned Tamil records, preserving source-visible text, page functions, lineation, signatures/stamps and visual relationships. New records remain `needs-review` / visual `needs-review`.
+Create ten page-aligned Tamil records, preserving source-visible text, page functions, poetic/prose lineation, signatures/stamps and visual relationships. New records remain `needs-review` / visual `needs-review`.
+
+Scan 20 is the already-established main-body start at printed page 1; capture it as part of this batch without changing the continuous global scan numbering.
