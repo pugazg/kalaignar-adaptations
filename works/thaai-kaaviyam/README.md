@@ -28,10 +28,11 @@ Visible structure established at intake:
 
 ## Current phase
 
-**Part 001 Pass 1 ACTIVE — 10/135 captured.**
+**Part 001 Pass 1 ACTIVE — 20/135 captured.**
 
 - Batch 001 / scans 1–10 — COMPLETE / PASS
-- all 10 page records remain textual `needs-review` and visual `needs-review`
-- 10→11 — GENUINE CONTINUATION, established from scan-11 boundary witness only
+- Batch 002 / scans 11–20 — COMPLETE / PASS
+- all 20 page records remain textual `needs-review` and visual `needs-review`
+- 20→21 — GENUINE CONTINUATION, established from scan-21 boundary witness only
 
-Next: **Pass 1 Batch 002 — scans 11–20**.
+Next: **Pass 1 Batch 003 — scans 21–30**.
