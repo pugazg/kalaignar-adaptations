@@ -19,16 +19,17 @@ Source: `TVA_BOK_0065557_கலைஞரின்_கவிதை_நடைய�
 ## Pass 1
 
 - Batch 001 — **COMPLETE / PASS 10/10**
-- captured range — **scans 1–10**
-- page records — **10**
-- textual status — **10 needs-review**
-- visual fidelity — **10 needs-review**
-- durable batch record — `PASS1_BATCH_001.md`
-- scan 11 inspected only as boundary witness
-- **10→11 GENUINE CONTINUATION**
+- Batch 002 — **COMPLETE / PASS 10/10**
+- captured range — **scans 1–20**
+- page records — **20**
+- textual status — **20 needs-review**
+- visual fidelity — **20 needs-review**
+- durable batch records — `PASS1_BATCH_001.md`, `PASS1_BATCH_002.md`
+- scan 21 inspected only as boundary witness
+- **20→21 GENUINE CONTINUATION**
 
 Do not infer Part 002 or Part 003 metadata before those files are supplied.
 
 ## Next activity
 
-**Part 001 Pass 1 / Batch 002 — scans 11–20.**
+**Part 001 Pass 1 / Batch 003 — scans 21–30.**
