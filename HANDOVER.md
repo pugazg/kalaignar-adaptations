@@ -32,17 +32,16 @@ Source:
 
 ### Current Pass-1 state
 
-- Batches 001–004 / scans **1–40** — **COMPLETE / PASS**
-- page records — **40/135**
-- statuses — **40 needs-review / 40 visual needs-review**
-- scan 28 — full-page illustration
-- scan 29 — section **(2)** begins
-- scan 37 — section **(3)** begins
-- latest boundary witness — **40→41 GENUINE CONTINUATION**
+- Batches 001–005 / scans **1–50** — **COMPLETE / PASS**
+- page records — **50/135**
+- statuses — **50 needs-review / 50 visual needs-review**
+- scans 46–47 — full-page illustrations
+- scan 48 — section **(4)** begins
+- latest boundary witness — **50→51 GENUINE CONTINUATION**
 - Part 002 and Part 003 metadata/ranges remain intentionally unknown until upload.
 
 ## Exact next activity
 
-**Part 001 Pass 1 Batch 005 — scans 41–50 / part pages 41–50.**
+**Part 001 Pass 1 Batch 006 — scans 51–60 / part pages 51–60.**
 
 Create the next ten page-aligned Tamil records. Keep new records `needs-review`; do not assign `verified` during Pass 1.
