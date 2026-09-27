@@ -1,0 +1,46 @@
+{
+  "work_id": "thaai-kaaviyam",
+  "title_ta": "கலைஞரின் கவிதை நடையில் கார்க்கியின் 'தாய்' காவியம்",
+  "author_adaptor": "கலைஞர் மு. கருணாநிதி",
+  "underlying_work": "Mother",
+  "underlying_author": "Maxim Gorky",
+  "form": "Tamil poetic adaptation",
+  "source_family": {
+    "bibliographic_units": 1,
+    "processing_parts_reported": 3,
+    "original_pdf_size_reported": "approximately 983.1 MB",
+    "global_scan_numbering": true,
+    "complete_scan_extent": null
+  },
+  "parts": [
+    {
+      "part": "001",
+      "filename": "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf",
+      "bytes": 324531352,
+      "sha256": "60212091c93452e749529a3d60c5a52e6392e54c8a8de0a6d06df3fc1db9a8b3",
+      "local_pages": 135,
+      "global_scan_start": 1,
+      "global_scan_end": 135,
+      "parsed_text": "unusable",
+      "controlling_representation": "rendered_scan_images",
+      "intake_status": "complete-pass",
+      "printed_body_start": {
+        "scan_page": 20,
+        "printed_page": 1
+      },
+      "part_endpoint": {
+        "scan_page": 135,
+        "printed_page": 116
+      },
+      "outgoing_boundary": "unresolved-pending-part-002"
+    },
+    {
+      "part": "002",
+      "status": "not-supplied"
+    },
+    {
+      "part": "003",
+      "status": "not-supplied"
+    }
+  ]
+}
