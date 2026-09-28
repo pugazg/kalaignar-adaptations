@@ -21,16 +21,16 @@ The rendered scan is the controlling source.
 
 ## Current phase
 
-**Part 001 Pass 2A ACTIVE — 30/135 reviewed.**
+**Part 001 Pass 2A ACTIVE — 40/135 reviewed.**
 
 - Pass 1 — **COMPLETE / PASS — 135/135**
-- Pass2A Batches001–003 / scans 1–30 — **COMPLETE / REVIEWED / PASS**
-- cumulative source-backed corrections — **30**
-- Batch003 corrections — **10**
-- textual status — **30 verified / 105 needs-review**
+- Pass2A Batches001–004 / scans 1–40 — **COMPLETE / REVIEWED / PASS**
+- cumulative source-backed corrections — **42**
+- Batch004 corrections — **12**
+- textual status — **40 verified / 95 needs-review**
 - visual fidelity — **135 needs-review**
 - Pass2B / Pass3 — **NOT STARTED**
 - 135→Part002 — **UNRESOLVED / NOT AUDITABLE**
 - Pass2A progress — `PART_001_PASS2A_PROGRESS.md`
 
-Next: **Pass 2A Batch 004 — scans 31–40 / part pages 31–40**.
+Next: **Pass 2A Batch 005 — scans 41–50 / part pages 41–50**.
