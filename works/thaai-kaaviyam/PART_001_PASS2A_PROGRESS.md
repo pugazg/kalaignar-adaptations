@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — ACTIVE — 20/135 REVIEWED**
+**PASS 2A — ACTIVE — 30/135 REVIEWED**
 
 Prerequisite:
 
@@ -17,20 +17,22 @@ For each reviewed scan, the existing canonical record is compared directly again
 
 ## Accounting
 
-- reviewed — **20/135 — scans 1–20**
-- remaining — **115/135**
+- reviewed — **30/135 — scans 1–30**
+- remaining — **105/135**
 - Batch001 corrections — **10**
 - Batch002 corrections — **10**
-- cumulative Pass2A corrections — **20**
-- Batch002 correction scans — **12, 14, 17, 18, 19, 20**
-- Batch002 zero-correction scans — **11, 13, 15, 16**
-- cumulative correction scans — **1, 2, 3, 6, 7, 9, 12, 14, 17, 18, 19, 20**
+- Batch003 corrections — **10**
+- cumulative Pass2A corrections — **30**
+- Batch003 correction scans — **21, 22, 24, 25, 26, 27, 29**
+- Batch003 zero-correction scans — **23, 28, 30**
+- cumulative correction scans — **1, 2, 3, 6, 7, 9, 12, 14, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 29**
 - unresolved textual questions — **0**
-- textual status — **20 verified / 115 needs-review**
+- textual status — **30 verified / 105 needs-review**
 - visual fidelity — **135 needs-review**
 - Pass2B / Pass3 — **NOT STARTED**
 - Batch001 record — `works/thaai-kaaviyam/PASS2A_BATCH_001.md`
 - Batch002 record — `works/thaai-kaaviyam/PASS2A_BATCH_002.md`
+- Batch003 record — `works/thaai-kaaviyam/PASS2A_BATCH_003.md`
 
 ## Batch ledger
 
@@ -38,8 +40,8 @@ For each reviewed scan, the existing canonical record is compared directly again
 |---|---:|---|
 | P2A-01 | 1–10 | COMPLETE / REVIEWED / PASS |
 | P2A-02 | 11–20 | COMPLETE / REVIEWED / PASS |
-| P2A-03 | 21–30 | NEXT |
-| P2A-04 | 31–40 | pending |
+| P2A-03 | 21–30 | COMPLETE / REVIEWED / PASS |
+| P2A-04 | 31–40 | NEXT |
 | P2A-05 | 41–50 | pending |
 | P2A-06 | 51–60 | pending |
 | P2A-07 | 61–70 | pending |
@@ -53,6 +55,6 @@ For each reviewed scan, the existing canonical record is compared directly again
 
 ## Exact next activity
 
-**Pass 2A Batch 003 — scans 21–30 / part pages 21–30.**
+**Pass 2A Batch 004 — scans 31–40 / part pages 31–40.**
 
-Do not review scan 31 or begin Pass 2B in the same iteration.
+Do not review scan 41 or begin Pass 2B in the same iteration.
