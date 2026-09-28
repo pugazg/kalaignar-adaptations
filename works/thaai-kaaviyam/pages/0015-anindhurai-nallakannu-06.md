@@ -6,12 +6,12 @@ printed_page: "xvi"
 work: "thaai-kaaviyam"
 section: "front-matter — அணிந்துரை — ஆர். நல்லகண்ணு"
 page_type: "foreword"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 visual_notes: "continuation of Nallakannu foreword; prose with two centered verse quotations; printed roman page xvi"
 language: "ta"
 source_filename: "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf"
-transcription_method: "manual visual transcription from rendered source scan; Pass 1"
+transcription_method: "manual visual transcription from rendered source scan; Pass 1; formal Part001 Pass 2A reviewed"
 ---
 
 மகன்மீதுள்ள பாசப் பிடிப்பால் உழைக்கும் மக்களை எல்லாம் மகனாகக் கருதுகிறாள். மகனோடு சேர்ந்து போராட்டங்களிலும் கொடிபிடித்துச் செல்கிறாள்; உயர்ந்த கொள்கைக்காக மகன் சிறைப்பட்டாலும், கண்டித்து நடக்கும் போராட்டத்திலும், ஜார் படையின் தாக்குதலில் சுருண்டு விழுகிறாள்!
@@ -32,5 +32,16 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 > கையிலே ஒரு தடிக்கம்புடன்  
 > சங்ககால ஒளவை’ - போல் நிலோவ்னா - ஊர்  
 > ஊராகச் சுற்றியதாகக் குறிப்பிடுகிறார்.
+
+
+## Formal Part001 Pass 2A review
+
+- direct source-pixel comparison completed against rendered scan 15;
+- spelling, punctuation, source-visible spacing / word boundaries, displayed hierarchy, page structure, printed pagination, illustrations/non-body separation and physical page-end state were checked;
+- source-backed corrections in this scan — **0**;
+- unresolved textual questions — **0**;
+- Pass 2A result — **REVIEWED / PASS**;
+- textual `status` — **verified**;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
 
 <!-- மூல ஸ்கேன் பக்கம்: 15; அச்சுப் பக்கம்: xvi -->
