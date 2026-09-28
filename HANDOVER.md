@@ -12,9 +12,7 @@ One work, split into three PDFs for processing because the original PDF is appro
 
 Do not treat the split PDFs as separate works or volumes.
 
-### Part 001
-
-Source:
+### Part 001 source
 
 `TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf`
 
@@ -23,24 +21,24 @@ Source:
 - local pages — **135**
 - global scans — **1–135**
 - source intake — **COMPLETE / PASS**
-- parsed text — **no usable text layer**
 - controlling authority — **rendered source pixels**
-- scans 1–19 — front matter
-- scan 20 — printed page 1 / main poetic body begins
+- scan 20 — printed page 1 / main body begins
 - scan 135 — printed page 116
 - 135→Part002 — **UNRESOLVED / NOT AUDITABLE; Part002 not supplied**
 
-### Part001 Pass-1 state
+### Part001 state
 
-- **COMPLETE / PASS — 135/135**
-- batches — **14/14 COMPLETE**
-- page records — **135**
-- statuses — **135 needs-review / 135 visual needs-review**
-- completion record — `works/thaai-kaaviyam/PART_001_PASS1_COMPLETE.md`
+- Pass 1 — **COMPLETE / PASS — 135/135**
+- Pass 2A — **ACTIVE — 10/135 REVIEWED**
+- Pass2A Batch001 / scans **1–10 — COMPLETE / REVIEWED / PASS**
+- Batch001 source-backed corrections — **10**
+- textual status — **10 verified / 125 needs-review**
+- visual fidelity — **135 needs-review**
+- Pass2B / Pass3 — **NOT STARTED**
 - Part 002 and Part 003 metadata/ranges remain intentionally unknown until upload.
 
 ## Exact next activity
 
-**Part 001 Pass 2A Batch 001 — scans 1–10 / part pages 1–10.**
+**Part 001 Pass 2A Batch 002 — scans 11–20 / part pages 11–20.**
 
-Perform strict rendered-source versus page-record review. Apply only source-backed corrections; preserve physical-page structure and do not infer missing material.
+Review exactly ten existing records against rendered source pixels. Apply only source-backed corrections and do not begin Pass 2B.
