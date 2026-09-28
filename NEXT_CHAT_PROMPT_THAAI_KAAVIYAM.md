@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தாய் காவியம் / Part001 Pass1 Batch14 FINAL — scans131–135
+# NEXT CHAT PROMPT — தாய் காவியம் / Part001 Pass2A Batch1 — scans1–10
 
 Continue directly in `pugazg/kalaignar-adaptations`, branch `main`, active work `works/thaai-kaaviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -27,24 +27,26 @@ Follow the Kuraloviyam multi-PDF archival methodology:
 - parsed text — **unusable**
 - scan 20 — printed page 1 / body begins
 - scan 135 — printed page 116
-- outgoing 135→Part002 — **UNRESOLVED / Part002 not supplied**
+- outgoing 135→Part002 — **UNRESOLVED / NOT AUDITABLE; Part002 not supplied**
 
 ## Durable Pass-1 state
 
-Batches 001–013 / scans **1–130** are **COMPLETE / PASS**.
+**COMPLETE / PASS — 135/135.**
 
-- page records — **130/135**
-- textual state — **130 needs-review**
-- visual state — **130 needs-review**
-- Batch 013 exact page-layer result — **10 added page files / 10 commits**
-- scan 124 — section **(13)** closes
-- scan 125 — section **(14)** begins
-- scan 131 was inspected only as boundary witness and not captured
-- **130→131 GENUINE CONTINUATION**
-- durable Batch 013 record — `works/thaai-kaaviyam/PASS1_BATCH_013.md`
+- batches — **14/14 COMPLETE**
+- page records — **135/135**
+- textual state — **135 needs-review**
+- visual state — **135 needs-review**
+- Batch 014 exact page-layer result — **5 added page files / 5 commits**
+- scan 131 — section **(14)** closes
+- scan 132 — section **(15)** begins
+- scan 135 — Part001 final physical scan
+- completion control — `works/thaai-kaaviyam/PART_001_PASS1_COMPLETE.md`
+
+Do not infer Part002 or Part003 metadata.
 
 ## Exact next activity
 
-**Pass 1 Batch 014 FINAL — scans 131–135 / part pages 131–135.**
+**Pass 2A Batch 001 — scans 1–10 / part pages 1–10.**
 
-Create the final five page-aligned Tamil records for Part 001, preserving source-visible text, poetic lineation, page furniture, illustrations and continuations. New records remain `needs-review` / visual `needs-review`. Do not infer or resolve the 135→Part002 boundary until Part002 is supplied.
+Strictly compare each existing page record against the rendered source scan, including textual content, physical page function, headings/furniture, illustrations and non-printed marks. Apply only source-backed corrections. Do not promote pages beyond the status appropriate to the Kuraloviyam Pass-2A stage.
