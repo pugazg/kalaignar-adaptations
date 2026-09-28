@@ -19,23 +19,18 @@ The rendered scan is the controlling source.
 - source intake COMPLETE / PASS
 - no usable parsed text layer
 
-Visible structure established at intake:
-
-- scans 1–19 — front matter;
-- scan 20 — printed page 1 / main poetic body begins;
-- scan 135 — printed page 116;
-- outgoing boundary remains unresolved until Part 002 is supplied.
-
 ## Current phase
 
-**Part 001 Pass 1 — COMPLETE / PASS 135/135.**
+**Part 001 Pass 2A ACTIVE — 10/135 reviewed.**
 
-- Batches 001–014 — COMPLETE / PASS
-- page records — **135/135**
-- all records remain textual `needs-review` and visual `needs-review` pending later-pass verification
-- scan 131 — section (14) closes
-- scan 132 — section (15) begins
-- 135→Part002 — UNRESOLVED / NOT AUDITABLE
-- completion record — `PART_001_PASS1_COMPLETE.md`
+- Pass 1 — **COMPLETE / PASS — 135/135**
+- Pass2A Batch001 / scans 1–10 — **COMPLETE / REVIEWED / PASS**
+- source-backed Batch001 corrections — **10**
+- correction scans — **1, 2, 3, 6, 7, 9**
+- textual status — **10 verified / 125 needs-review**
+- visual fidelity — **135 needs-review**
+- Pass2B / Pass3 — **NOT STARTED**
+- 135→Part002 — **UNRESOLVED / NOT AUDITABLE**
+- Pass2A progress — `PART_001_PASS2A_PROGRESS.md`
 
-Next: **Pass 2A Batch 001 — scans 1–10 / part pages 1–10**.
+Next: **Pass 2A Batch 002 — scans 11–20 / part pages 11–20**.
