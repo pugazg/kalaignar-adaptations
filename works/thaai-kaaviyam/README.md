@@ -28,13 +28,14 @@ Visible structure established at intake:
 
 ## Current phase
 
-**Part 001 Pass 1 ACTIVE — 100/135 captured.**
+**Part 001 Pass 1 ACTIVE — 110/135 captured.**
 
-- Batches 001–010 / scans 1–100 — COMPLETE / PASS
-- all 100 page records remain textual `needs-review` and visual `needs-review`
-- scan 95 — section (9) closes
-- scan 96 — section (10) begins
-- scan 100 — full-page illustration
-- 100→101 — CLEAN; illustration interleaf, then fresh text resumes on scan 101
+- Batches 001–011 / scans 1–110 — COMPLETE / PASS
+- all 110 page records remain textual `needs-review` and visual `needs-review`
+- scan 103 — section (10) closes
+- scan 104 — section (11) begins
+- scan 109 — section (11) closes
+- scan 110 — section (12) begins
+- 110→111 — GENUINE CONTINUATION; the sentence beginning with `பியோடார் சொன்ன செய்திகேட்டு` continues on scan 111
 
-Next: **Pass 1 Batch 011 — scans 101–110**.
+Next: **Pass 1 Batch 012 — scans 111–120**.
