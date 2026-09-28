@@ -4,7 +4,7 @@
 
 ## Durable state
 
-Part 001 source intake is complete and Pass 1 is active.
+Part 001 source intake and Pass 1 are complete.
 
 Source: `TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf`
 
@@ -18,19 +18,22 @@ Source: `TVA_BOK_0065557_கலைஞரின்_கவிதை_நடைய�
 
 ## Pass 1
 
-- Batches 001–013 — **COMPLETE / PASS 130/130**
-- captured range — **scans 1–130**
-- page records — **130**
-- textual status — **130 needs-review**
-- visual fidelity — **130 needs-review**
-- scan 124 — section **(13)** closes
-- scan 125 — section **(14)** begins
-- scan 131 inspected only as boundary witness
-- **130→131 GENUINE CONTINUATION**
-- only final Pass-1 batch remains for Part 001
+- Batches 001–014 — **COMPLETE / PASS**
+- physical/page coverage — **135/135**
+- page records — **135**
+- textual status — **135 needs-review**
+- visual fidelity — **135 needs-review**
+- missing physical scans — **0**
+- final batch — scans **131–135 / 5/5 COMPLETE**
+- scan 131 — section **(14)** closes
+- scan 132 — section **(15)** begins
+- 135→Part002 — **UNRESOLVED / NOT AUDITABLE**
+- completion control — `works/thaai-kaaviyam/PART_001_PASS1_COMPLETE.md`
 
 Do not infer Part 002 or Part 003 metadata before those files are supplied.
 
 ## Next activity
 
-**Part 001 Pass 1 / Batch 014 FINAL — scans 131–135.**
+**Part 001 Pass 2A / Batch 001 — scans 1–10 / part pages 1–10.**
+
+Strictly recheck each page record against rendered source pixels and apply only source-backed corrections.
