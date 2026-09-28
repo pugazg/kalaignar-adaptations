@@ -18,20 +18,19 @@ Source: `TVA_BOK_0065557_கலைஞரின்_கவிதை_நடைய�
 
 ## Pass 1
 
-- Batches 001–012 — **COMPLETE / PASS 120/120**
-- captured range — **scans 1–120**
-- page records — **120**
-- textual status — **120 needs-review**
-- visual fidelity — **120 needs-review**
-- scan 116 — section **(12)** closes
-- scan 117 — section **(13)** begins
-- scans 118–119 — illustration-only physical pages
-- scan 120 — section **(13)** resumes with a non-printed library stamp overlapping the upper-right text
-- scan 121 inspected only as boundary witness
-- **120→121 CLEAN**
+- Batches 001–013 — **COMPLETE / PASS 130/130**
+- captured range — **scans 1–130**
+- page records — **130**
+- textual status — **130 needs-review**
+- visual fidelity — **130 needs-review**
+- scan 124 — section **(13)** closes
+- scan 125 — section **(14)** begins
+- scan 131 inspected only as boundary witness
+- **130→131 GENUINE CONTINUATION**
+- only final Pass-1 batch remains for Part 001
 
 Do not infer Part 002 or Part 003 metadata before those files are supplied.
 
 ## Next activity
 
-**Part 001 Pass 1 / Batch 013 — scans 121–130.**
+**Part 001 Pass 1 / Batch 014 FINAL — scans 131–135.**
