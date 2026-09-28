@@ -6,12 +6,12 @@ printed_page: "xx"
 work: "thaai-kaaviyam"
 section: "front-matter — வாழ்த்தும் பாராட்டும்"
 page_type: "appreciation-note"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 visual_notes: "conclusion of appreciation note; prose ending with அன்புள்ள; handwritten signature/date at lower right; printed roman page xx"
 language: "ta"
 source_filename: "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf"
-transcription_method: "manual visual transcription from rendered source scan; Pass 1"
+transcription_method: "manual visual transcription from rendered source scan; Pass 1; formal Part001 Pass 2A reviewed"
 ---
 
 மொழிபெயர்க்கப்பட்டு உலகின் மூல பலமான பாட்டாளி வர்க்கத்திற்கு மேலும் பலம் சேர்த்திருக்கிறது.
@@ -28,12 +28,26 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 இதன் சிறப்புக்கு, சிவப்பின் அங்கீகாரம் வேண்டுமென விரும்பினேன்.
 
-அதனை அளித்திருப்பவர்கள் அருமைத் தோழர்கள் சங்கரய்யாவும், நல்லகண்ணுவும் ஆவார்கள். அவர்களுக்கு நன்றி தெரிவித்து, இந்நூலை வெளியிட்ட தமிழ்க்கனி பதிப்பகத்தாருக்கும், அச்சிட்ட ஈகின் அச்சகத்தாருக்கும். எழுதிய எழுத்திட தட்டச்சு செய்து தந்த தம்பி இளமுதிலுக்கும் வாழ்த்தும் பாராட்டும் வழங்குகிறேன்.
+அதனை அளித்திருப்பவர்கள் அருமைத் தோழர்கள் சங்கரய்யாவும், நல்லகண்ணுவும் ஆவார்கள். அவர்களுக்கு நன்றி தெரிவித்து, இந்நூலை வெளியிட்ட தமிழ்க்கனிப் பதிப்பகத்தாருக்கும், அச்சிட்ட ஈகிள் அச்சகத்தாருக்கும். எழுதிட எழுதிட தட்டச்சு செய்து தந்த தம்பி இளமுதிலுக்கும் வாழ்த்தும் பாராட்டும் வழங்குகிறேன்.
 
 அன்புள்ள,
 
 ## Non-printed mark
 
 A handwritten signature and the handwritten date 7/4/2004 appear below the closing.
+
+
+## Formal Part001 Pass 2A review
+
+- direct source-pixel comparison completed against rendered scan 19;
+- spelling, punctuation, source-visible spacing / word boundaries, displayed hierarchy, page structure, printed pagination, illustrations/non-body separation and physical page-end state were checked;
+- source-backed corrections in this scan — **3**;
+- `தமிழ்க்கனி பதிப்பகத்தாருக்கும்` → **`தமிழ்க்கனிப் பதிப்பகத்தாருக்கும்`**;
+- `ஈகின் அச்சகத்தாருக்கும்` → **`ஈகிள் அச்சகத்தாருக்கும்`**;
+- `எழுதிய எழுத்திட தட்டச்சு` → **`எழுதிட எழுதிட தட்டச்சு`**;
+- unresolved textual questions — **0**;
+- Pass 2A result — **REVIEWED / PASS**;
+- textual `status` — **verified**;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
 
 <!-- மூல ஸ்கேன் பக்கம்: 19; அச்சுப் பக்கம்: xx -->
