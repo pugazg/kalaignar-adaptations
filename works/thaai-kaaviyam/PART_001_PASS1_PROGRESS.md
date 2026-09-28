@@ -5,27 +5,17 @@ Source range: **global scans 1–135 / local Part pages 1–135**.
 ## State
 
 - source intake — **COMPLETE / PASS**
-- Pass 1 — **ACTIVE**
-- captured pages — **130/135**
-- current canonical page records — **130**
-- current captured range — **scans 1–130**
-- current textual status — **130 needs-review**
-- current visual fidelity — **130 needs-review**
-- Batch 001 record — `works/thaai-kaaviyam/PASS1_BATCH_001.md`
-- Batch 002 record — `works/thaai-kaaviyam/PASS1_BATCH_002.md`
-- Batch 003 record — `works/thaai-kaaviyam/PASS1_BATCH_003.md`
-- Batch 004 record — `works/thaai-kaaviyam/PASS1_BATCH_004.md`
-- Batch 005 record — `works/thaai-kaaviyam/PASS1_BATCH_005.md`
-- Batch 006 record — `works/thaai-kaaviyam/PASS1_BATCH_006.md`
-- Batch 007 record — `works/thaai-kaaviyam/PASS1_BATCH_007.md`
-- Batch 008 record — `works/thaai-kaaviyam/PASS1_BATCH_008.md`
-- Batch 009 record — `works/thaai-kaaviyam/PASS1_BATCH_009.md`
-- Batch 010 record — `works/thaai-kaaviyam/PASS1_BATCH_010.md`
-- Batch 011 record — `works/thaai-kaaviyam/PASS1_BATCH_011.md`
-- Batch 012 record — `works/thaai-kaaviyam/PASS1_BATCH_012.md`
-- Batch 013 record — `works/thaai-kaaviyam/PASS1_BATCH_013.md`
-- latest boundary witness — **130→131 GENUINE CONTINUATION**
-- next batch — **scans 131–135 / part pages 131–135**
+- Pass 1 — **COMPLETE / PASS**
+- captured pages — **135/135**
+- canonical page records — **135**
+- captured range — **scans 1–135**
+- textual status after Pass 1 — **135 needs-review**
+- visual fidelity after Pass 1 — **135 needs-review**
+- batches complete — **14/14**
+- Pass-1 completion record — `works/thaai-kaaviyam/PART_001_PASS1_COMPLETE.md`
+- outgoing source boundary — **135→Part002 UNRESOLVED / NOT AUDITABLE**
+- next phase — **Pass 2A**
+- exact next batch — **scans 1–10 / part pages 1–10**
 
 ## Batch ledger
 
@@ -44,6 +34,6 @@ Source range: **global scans 1–135 / local Part pages 1–135**.
 | P1-11 | 101–110 | 101–110 | COMPLETE / PASS |
 | P1-12 | 111–120 | 111–120 | COMPLETE / PASS |
 | P1-13 | 121–130 | 121–130 | COMPLETE / PASS |
-| P1-14 | 131–135 | 131–135 | NEXT |
+| P1-14 | 131–135 | 131–135 | COMPLETE / PASS |
 
-The batch boundary is operational only and does not imply a narrative or verse boundary.
+Pass 1 is closed. Do not reopen it merely to begin Pass 2A; source-backed defects discovered during later review are recorded and corrected in the appropriate later-pass audit.
