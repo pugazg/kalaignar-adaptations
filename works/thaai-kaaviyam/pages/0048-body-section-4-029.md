@@ -6,12 +6,12 @@ printed_page: "29"
 work: "thaai-kaaviyam"
 section: "main-body — section 4"
 page_type: "poetic-body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 visual_notes: "section marker (4) centered near top; Pavel tells his mother friends from the city will visit; running header; printed page 29"
 language: "ta"
 source_filename: "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf"
-transcription_method: "manual visual transcription from rendered source scan; Pass 1"
+transcription_method: "manual visual transcription from rendered source scan; Pass 1; formal Part001 Pass 2A reviewed"
 ---
 
 ## (4)
@@ -45,5 +45,16 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 நடந்து கொண்டிருக்கிறது.  
 கண்ணே; உனக்காகத் தான் கலங்குகிறேன்  
 நான் வாழ்வதும் உனக்காகத் தானே!”
+
+
+## Formal Part001 Pass 2A review
+
+- direct source-pixel comparison completed against rendered scan 48;
+- spelling, punctuation, source-visible spacing / word boundaries, displayed hierarchy, page structure, printed pagination, illustration/non-body separation and physical page-end state were checked;
+- source-backed corrections in this scan — **0**;
+- unresolved textual questions — **0**;
+- Pass 2A result — **REVIEWED / PASS**;
+- textual `status` — **verified**;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
 
 <!-- மூல ஸ்கேன் பக்கம்: 48; அச்சுப் பக்கம்: 29 -->
