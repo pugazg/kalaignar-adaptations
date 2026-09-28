@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — ACTIVE — 50/135 REVIEWED**
+**PASS 2A — ACTIVE — 60/135 REVIEWED**
 
 Prerequisite:
 
@@ -17,19 +17,20 @@ For each reviewed scan, the existing canonical record is compared directly again
 
 ## Accounting
 
-- reviewed — **50/135 — scans 1–50**
-- remaining — **85/135**
+- reviewed — **60/135 — scans 1–60**
+- remaining — **75/135**
 - Batch001 corrections — **10**
 - Batch002 corrections — **10**
 - Batch003 corrections — **10**
 - Batch004 corrections — **12**
 - Batch005 corrections — **5**
-- cumulative Pass2A corrections — **47**
-- Batch005 correction scans — **43, 44, 50**
-- Batch005 zero-correction scans — **41, 42, 45, 46, 47, 48, 49**
-- cumulative correction scans — **1, 2, 3, 6, 7, 9, 12, 14, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 29, 32, 36, 37, 38, 39, 43, 44, 50**
+- Batch006 corrections — **6**
+- cumulative Pass2A corrections — **53**
+- Batch006 correction scans — **51, 56, 59, 60**
+- Batch006 zero-correction scans — **52, 53, 54, 55, 57, 58**
+- cumulative correction scans — **1, 2, 3, 6, 7, 9, 12, 14, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 29, 32, 36, 37, 38, 39, 43, 44, 50, 51, 56, 59, 60**
 - unresolved textual questions — **0**
-- textual status — **50 verified / 85 needs-review**
+- textual status — **60 verified / 75 needs-review**
 - visual fidelity — **135 needs-review**
 - Pass2B / Pass3 — **NOT STARTED**
 - Batch001 record — `works/thaai-kaaviyam/PASS2A_BATCH_001.md`
@@ -37,6 +38,7 @@ For each reviewed scan, the existing canonical record is compared directly again
 - Batch003 record — `works/thaai-kaaviyam/PASS2A_BATCH_003.md`
 - Batch004 record — `works/thaai-kaaviyam/PASS2A_BATCH_004.md`
 - Batch005 record — `works/thaai-kaaviyam/PASS2A_BATCH_005.md`
+- Batch006 record — `works/thaai-kaaviyam/PASS2A_BATCH_006.md`
 
 ## Batch ledger
 
@@ -47,8 +49,8 @@ For each reviewed scan, the existing canonical record is compared directly again
 | P2A-03 | 21–30 | COMPLETE / REVIEWED / PASS |
 | P2A-04 | 31–40 | COMPLETE / REVIEWED / PASS |
 | P2A-05 | 41–50 | COMPLETE / REVIEWED / PASS |
-| P2A-06 | 51–60 | NEXT |
-| P2A-07 | 61–70 | pending |
+| P2A-06 | 51–60 | COMPLETE / REVIEWED / PASS |
+| P2A-07 | 61–70 | NEXT |
 | P2A-08 | 71–80 | pending |
 | P2A-09 | 81–90 | pending |
 | P2A-10 | 91–100 | pending |
@@ -59,6 +61,6 @@ For each reviewed scan, the existing canonical record is compared directly again
 
 ## Exact next activity
 
-**Pass 2A Batch 006 — scans 51–60 / part pages 51–60.**
+**Pass 2A Batch 007 — scans 61–70 / part pages 61–70.**
 
-Do not review scan 61 or begin Pass 2B in the same iteration.
+Do not review scan 71 or begin Pass 2B in the same iteration.
