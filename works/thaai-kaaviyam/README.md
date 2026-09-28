@@ -28,14 +28,14 @@ Visible structure established at intake:
 
 ## Current phase
 
-**Part 001 Pass 1 ACTIVE — 110/135 captured.**
+**Part 001 Pass 1 ACTIVE — 120/135 captured.**
 
-- Batches 001–011 / scans 1–110 — COMPLETE / PASS
-- all 110 page records remain textual `needs-review` and visual `needs-review`
-- scan 103 — section (10) closes
-- scan 104 — section (11) begins
-- scan 109 — section (11) closes
-- scan 110 — section (12) begins
-- 110→111 — GENUINE CONTINUATION; the sentence beginning with `பியோடார் சொன்ன செய்திகேட்டு` continues on scan 111
+- Batches 001–012 / scans 1–120 — COMPLETE / PASS
+- all 120 page records remain textual `needs-review` and visual `needs-review`
+- scan 116 — section (12) closes
+- scan 117 — section (13) begins
+- scans 118–119 — full-page illustrations
+- scan 120 — text resumes; purple library stamp recorded separately as non-printed
+- 120→121 — CLEAN; same scene continues, but no sentence/quote is split across the boundary
 
-Next: **Pass 1 Batch 012 — scans 111–120**.
+Next: **Pass 1 Batch 013 — scans 121–130**.
