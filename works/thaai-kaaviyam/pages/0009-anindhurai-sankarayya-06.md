@@ -6,12 +6,12 @@ printed_page: "x"
 work: "thaai-kaaviyam"
 section: "front-matter — அணிந்துரை — என். சங்கரய்யா"
 page_type: "foreword"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 visual_notes: "conclusion of Sankarayya foreword; two verse quotations; closing place/date at lower left and handwritten signature above printed author name at lower right; printed roman page x"
 language: "ta"
 source_filename: "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf"
-transcription_method: "manual visual transcription from rendered source scan; Pass 1"
+transcription_method: "manual visual transcription from rendered source scan; Pass 1; formal Part001 Pass 2A reviewed"
 ---
 
 > “குருதி வெள்ளத்தில் எங்களை  
@@ -20,7 +20,7 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 என்று முழங்குகிறார்.
 
-ஒரு போலீஸ் அதிகாரி அவருடைய குரல் வளையையே நெரித்து விடுகிறான். மயக்கம் போட்டு விழுந்த அவரை ஜவான் என்ற இளைஞன் குதிரை வண்டியில் ஏற்றி மருத்துவமனைக்கு அழைத்துச் செல்லுகிறான். போலீசும் பின்னால் துரத்துகிறது. அவர் உயிர் உடலில் ஒட்டியுள்ளதா இல்லையா? டாக்டர்தான் சொல்ல வேண்டும்.
+ஒரு போலீஸ் அதிகாரி அவருடைய குரல் வளையையே நெரித்து விடுகிறான். மயக்கம் போட்டு விழுந்த அவரை ஜவான் என்ற இளைஞன் குதிரை வண்டியில் ஏற்றி மருத்துவமனைக்கு அழைத்துச் செல்லுகிறான். போலீசும் பின்னால் துரத்துகிறது. அவள் உயிர் உடலில் ஒட்டியுள்ளதா இல்லையா? டாக்டர்தான் சொல்ல வேண்டும்.
 
 இந்த நிலையில் கலைஞர் உணர்ச்சிமிக்க பாடல் வரிகளில்,
 
@@ -46,5 +46,17 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 ## Non-printed mark
 
 A handwritten signature appears above the printed author name.
+
+
+## Formal Part001 Pass 2A review
+
+- direct source-pixel comparison completed against rendered scan 9;
+- spelling, punctuation, source-visible word boundaries, displayed hierarchy/page structure, printed pagination, illustrations/non-printed marks and physical page state were checked;
+- source-backed corrections in this scan — **1**;
+- `அவர் உயிர் உடலில் ஒட்டியுள்ளதா இல்லையா?` → **`அவள் உயிர் உடலில் ஒட்டியுள்ளதா இல்லையா?`**;
+- unresolved textual questions — **0**;
+- Pass 2A result — **REVIEWED / PASS**;
+- textual `status` — **verified**;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
 
 <!-- மூல ஸ்கேன் பக்கம்: 9; அச்சுப் பக்கம்: x -->
