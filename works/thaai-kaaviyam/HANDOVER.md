@@ -2,9 +2,7 @@
 
 **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable state
-
-Part 001 source intake and Pass 1 are complete.
+## Durable source state
 
 Source: `TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf`
 
@@ -12,28 +10,32 @@ Source: `TVA_BOK_0065557_கலைஞரின்_கவிதை_நடைய�
 - SHA-256: `60212091c93452e749529a3d60c5a52e6392e54c8a8de0a6d06df3fc1db9a8b3`
 - local pages: 135
 - global scans: 1–135
+- source text layer unusable; rendered scans control
 - scan 20 = printed page 1 / main poetic body begins
 - scan 135 = printed page 116
-- source text layer unusable; rendered scans control
-
-## Pass 1
-
-- Batches 001–014 — **COMPLETE / PASS**
-- physical/page coverage — **135/135**
-- page records — **135**
-- textual status — **135 needs-review**
-- visual fidelity — **135 needs-review**
-- missing physical scans — **0**
-- final batch — scans **131–135 / 5/5 COMPLETE**
-- scan 131 — section **(14)** closes
-- scan 132 — section **(15)** begins
 - 135→Part002 — **UNRESOLVED / NOT AUDITABLE**
+
+## Part001 Pass 1
+
+- **COMPLETE / PASS — 135/135**
 - completion control — `works/thaai-kaaviyam/PART_001_PASS1_COMPLETE.md`
 
-Do not infer Part 002 or Part 003 metadata before those files are supplied.
+## Part001 Pass 2A
+
+- **ACTIVE — 10/135 REVIEWED**
+- Batch001 scans **1–10 — COMPLETE / REVIEWED / PASS**
+- source-backed corrections — **10**
+- correction scans — **1, 2, 3, 6, 7, 9**
+- textual status — **10 verified / 125 needs-review**
+- visual fidelity — **135 needs-review**
+- unresolved textual questions — **0**
+- progress control — `works/thaai-kaaviyam/PART_001_PASS2A_PROGRESS.md`
+- Batch001 audit — `works/thaai-kaaviyam/PASS2A_BATCH_001.md`
+
+Part 002 and Part 003 metadata/ranges remain intentionally unknown until upload.
 
 ## Next activity
 
-**Part 001 Pass 2A / Batch 001 — scans 1–10 / part pages 1–10.**
+**Part 001 Pass 2A Batch 002 — scans 11–20 / part pages 11–20.**
 
-Strictly recheck each page record against rendered source pixels and apply only source-backed corrections.
+Strictly compare those existing records against rendered source pixels and apply only source-backed corrections. Do not begin Pass 2B.
