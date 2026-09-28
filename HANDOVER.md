@@ -28,20 +28,19 @@ Source:
 - scans 1–19 — front matter
 - scan 20 — printed page 1 / main poetic body begins
 - scan 135 — printed page 116
-- 135→Part002 — **not yet auditable; Part002 not supplied**
+- 135→Part002 — **UNRESOLVED / NOT AUDITABLE; Part002 not supplied**
 
-### Current Pass-1 state
+### Part001 Pass-1 state
 
-- Batches 001–013 / scans **1–130** — **COMPLETE / PASS**
-- page records — **130/135**
-- statuses — **130 needs-review / 130 visual needs-review**
-- scan 124 — section **(13)** closes
-- scan 125 — section **(14)** begins
-- latest boundary witness — **130→131 GENUINE CONTINUATION**
+- **COMPLETE / PASS — 135/135**
+- batches — **14/14 COMPLETE**
+- page records — **135**
+- statuses — **135 needs-review / 135 visual needs-review**
+- completion record — `works/thaai-kaaviyam/PART_001_PASS1_COMPLETE.md`
 - Part 002 and Part 003 metadata/ranges remain intentionally unknown until upload.
 
 ## Exact next activity
 
-**Part 001 Pass 1 Batch 014 FINAL — scans 131–135 / part pages 131–135.**
+**Part 001 Pass 2A Batch 001 — scans 1–10 / part pages 1–10.**
 
-Create the final five page-aligned Tamil records for Part 001. Keep new records `needs-review`; do not assign `verified` during Pass 1. Do not infer the 135→Part002 boundary until Part002 is supplied.
+Perform strict rendered-source versus page-record review. Apply only source-backed corrections; preserve physical-page structure and do not infer missing material.
