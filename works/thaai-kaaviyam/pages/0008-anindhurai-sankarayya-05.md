@@ -6,12 +6,12 @@ printed_page: "ix"
 work: "thaai-kaaviyam"
 section: "front-matter — அணிந்துரை — என். சங்கரய்யா"
 page_type: "foreword"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 visual_notes: "continues verse block from previous scan, followed by prose and another centered verse quotation; final prose sentence continues to next scan; printed roman page ix"
 language: "ta"
 source_filename: "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf"
-transcription_method: "manual visual transcription from rendered source scan; Pass 1"
+transcription_method: "manual visual transcription from rendered source scan; Pass 1; formal Part001 Pass 2A reviewed"
 ---
 
 > அடங்கிக் கிடந்த எனக்குக்  
@@ -44,4 +44,15 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 ஒரு போராட்டத்தில், தாய் நிலோவ்னாவை ஓர் அரசு அதிகாரி தாக்கி விடுகிறார். அப்போது அந்தத் தாய்,
 
 <!-- தொடர்ச்சி அடுத்த மூல ஸ்கேனில். -->
+
+## Formal Part001 Pass 2A review
+
+- direct source-pixel comparison completed against rendered scan 8;
+- spelling, punctuation, source-visible word boundaries, displayed hierarchy/page structure, printed pagination, illustrations/non-printed marks and physical page state were checked;
+- source-backed corrections in this scan — **0**;
+- unresolved textual questions — **0**;
+- Pass 2A result — **REVIEWED / PASS**;
+- textual `status` — **verified**;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
 <!-- மூல ஸ்கேன் பக்கம்: 8; அச்சுப் பக்கம்: ix -->
