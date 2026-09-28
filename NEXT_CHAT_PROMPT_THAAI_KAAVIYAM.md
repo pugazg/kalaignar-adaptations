@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தாய் காவியம் / Part001 Pass2A Batch1 — scans1–10
+# NEXT CHAT PROMPT — தாய் காவியம் / Part001 Pass2A Batch2 — scans11–20
 
 Continue directly in `pugazg/kalaignar-adaptations`, branch `main`, active work `works/thaai-kaaviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,7 +12,7 @@ Follow the Kuraloviyam multi-PDF archival methodology:
 - rendered scans are textual/structural authority;
 - no OCR/model-memory normalization;
 - one record per physical scan;
-- Part must complete Pass 1 → Pass 2A → Pass 2B → Pass 3 → audit → status/doc sync → Tamil archival-ready → maintained English → final closure before the next Part begins;
+- Pass 1 → Pass 2A → Pass 2B → Pass 3 → audit → status/doc sync → Tamil archival-ready → maintained English → final closure;
 - cross-Part boundary is audited only when the adjacent source is supplied.
 
 ## Part001 source
@@ -23,30 +23,28 @@ Follow the Kuraloviyam multi-PDF archival methodology:
 - SHA-256 — `60212091c93452e749529a3d60c5a52e6392e54c8a8de0a6d06df3fc1db9a8b3`
 - local pages — **135**
 - global scans — **1–135**
-- intake — **COMPLETE / PASS**
-- parsed text — **unusable**
-- scan 20 — printed page 1 / body begins
-- scan 135 — printed page 116
+- Pass 1 — **COMPLETE / PASS — 135/135**
 - outgoing 135→Part002 — **UNRESOLVED / NOT AUDITABLE; Part002 not supplied**
 
-## Durable Pass-1 state
+## Durable Pass2A state
 
-**COMPLETE / PASS — 135/135.**
+Batch001 / scans **1–10** — **COMPLETE / REVIEWED / PASS**.
 
-- batches — **14/14 COMPLETE**
-- page records — **135/135**
-- textual state — **135 needs-review**
-- visual state — **135 needs-review**
-- Batch 014 exact page-layer result — **5 added page files / 5 commits**
-- scan 131 — section **(14)** closes
-- scan 132 — section **(15)** begins
-- scan 135 — Part001 final physical scan
-- completion control — `works/thaai-kaaviyam/PART_001_PASS1_COMPLETE.md`
+- Pass2A reviewed — **10/135**
+- remaining — **125/135**
+- Batch001 source-backed corrections — **10**
+- correction scans — **1, 2, 3, 6, 7, 9**
+- zero-correction scans — **4, 5, 8, 10**
+- textual status — **10 verified / 125 needs-review**
+- visual fidelity — **135 needs-review**
+- unresolved textual questions — **0**
+- audit record — `works/thaai-kaaviyam/PASS2A_BATCH_001.md`
+- progress control — `works/thaai-kaaviyam/PART_001_PASS2A_PROGRESS.md`
 
 Do not infer Part002 or Part003 metadata.
 
 ## Exact next activity
 
-**Pass 2A Batch 001 — scans 1–10 / part pages 1–10.**
+**Pass 2A Batch 002 — scans 11–20 / part pages 11–20.**
 
-Strictly compare each existing page record against the rendered source scan, including textual content, physical page function, headings/furniture, illustrations and non-printed marks. Apply only source-backed corrections. Do not promote pages beyond the status appropriate to the Kuraloviyam Pass-2A stage.
+Strictly compare exactly those ten existing page records against rendered source scans for spelling, punctuation, source-specific spacing / word boundaries, displayed hierarchy, page structure, printed pagination, illustration/non-body separation and physical page-end state. Apply only source-backed corrections. Set reviewed textual records to the Pass2A-appropriate state while leaving visual fidelity for later gates. Do not review scan21 or begin Pass2B in this iteration.
