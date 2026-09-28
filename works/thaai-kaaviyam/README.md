@@ -28,14 +28,14 @@ Visible structure established at intake:
 
 ## Current phase
 
-**Part 001 Pass 1 ACTIVE — 70/135 captured.**
+**Part 001 Pass 1 ACTIVE — 80/135 captured.**
 
-- Batches 001–007 / scans 1–70 — COMPLETE / PASS
-- all 70 page records remain textual `needs-review` and visual `needs-review`
-- scan 64 — full-page illustration
-- scan 65 — text plus illustration
-- scan 66 — section (5) closes
-- scan 67 — section (6) begins
-- 70→71 — CLEAN; section (6) continues but no sentence/quoted block is split across the boundary
+- Batches 001–008 / scans 1–80 — COMPLETE / PASS
+- all 80 page records remain textual `needs-review` and visual `needs-review`
+- scan 73 — section (6) closes
+- scan 74 — section (7) begins
+- scan 79 — section (7) closes
+- scan 80 — section (8) begins
+- 80→81 — CLEAN; leaflet subject continues but no sentence/quoted block is split across the boundary
 
-Next: **Pass 1 Batch 008 — scans 71–80**.
+Next: **Pass 1 Batch 009 — scans 81–90**.
