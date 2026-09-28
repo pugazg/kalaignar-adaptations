@@ -28,12 +28,13 @@ Visible structure established at intake:
 
 ## Current phase
 
-**Part 001 Pass 1 ACTIVE — 90/135 captured.**
+**Part 001 Pass 1 ACTIVE — 100/135 captured.**
 
-- Batches 001–009 / scans 1–90 — COMPLETE / PASS
-- all 90 page records remain textual `needs-review` and visual `needs-review`
-- scan 88 — section (8) closes
-- scan 89 — section (9) begins
-- 90→91 — CLEAN; police-search scene continues but no sentence/quoted block is split across the boundary
+- Batches 001–010 / scans 1–100 — COMPLETE / PASS
+- all 100 page records remain textual `needs-review` and visual `needs-review`
+- scan 95 — section (9) closes
+- scan 96 — section (10) begins
+- scan 100 — full-page illustration
+- 100→101 — CLEAN; illustration interleaf, then fresh text resumes on scan 101
 
-Next: **Pass 1 Batch 010 — scans 91–100**.
+Next: **Pass 1 Batch 011 — scans 101–110**.
