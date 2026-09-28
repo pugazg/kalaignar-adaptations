@@ -6,12 +6,12 @@ printed_page: "18"
 work: "thaai-kaaviyam"
 section: "main-body — section 3"
 page_type: "poetic-body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 visual_notes: "section marker (3) centered near top; dialogue about prohibited books and hidden truths; final line continues to next scan; running header; printed page 18"
 language: "ta"
 source_filename: "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf"
-transcription_method: "manual visual transcription from rendered source scan; Pass 1"
+transcription_method: "manual visual transcription from rendered source scan; Pass 1; formal Part001 Pass 2A reviewed"
 ---
 
 ## (3)
@@ -32,7 +32,7 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 அபாயச் சங்கு போல ஒலிக்குமென  
 எதிர்பார்க்கவில்லை அவள்.
 
-“ஏரிமலை, பூகம்பம் எங்கேயோ வெடித்தால்  
+“எரிமலை, பூகம்பம் எங்கேயோ வெடித்தால்  
 அது நமக்குச் செய்தி!  
 நம் வீட்டுக்குள்ளேயே வெடித்தால்  
 என்ன நம் கதி?  
@@ -46,6 +46,18 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 “பொல்லாத உண்மையல்ல;  
 பொல்லாதவர்களைப் பற்றிய உண்மையம்மா; - அதைச்
+
+
+## Formal Part001 Pass 2A review
+
+- direct source-pixel comparison completed against rendered scan 37;
+- spelling, punctuation, source-visible spacing / word boundaries, displayed hierarchy, page structure, printed pagination and physical page-end state were checked;
+- source-backed corrections in this scan — **1**;
+- `ஏரிமலை, பூகம்பம் எங்கேயோ வெடித்தால்` → **`எரிமலை, பூகம்பம் எங்கேயோ வெடித்தால்`**;
+- unresolved textual questions — **0**;
+- Pass 2A result — **REVIEWED / PASS**;
+- textual `status` — **verified**;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
 
 <!-- தொடர்ச்சி அடுத்த மூல ஸ்கேனில். -->
 <!-- மூல ஸ்கேன் பக்கம்: 37; அச்சுப் பக்கம்: 18 -->
