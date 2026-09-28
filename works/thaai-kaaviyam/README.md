@@ -28,14 +28,12 @@ Visible structure established at intake:
 
 ## Current phase
 
-**Part 001 Pass 1 ACTIVE — 80/135 captured.**
+**Part 001 Pass 1 ACTIVE — 90/135 captured.**
 
-- Batches 001–008 / scans 1–80 — COMPLETE / PASS
-- all 80 page records remain textual `needs-review` and visual `needs-review`
-- scan 73 — section (6) closes
-- scan 74 — section (7) begins
-- scan 79 — section (7) closes
-- scan 80 — section (8) begins
-- 80→81 — CLEAN; leaflet subject continues but no sentence/quoted block is split across the boundary
+- Batches 001–009 / scans 1–90 — COMPLETE / PASS
+- all 90 page records remain textual `needs-review` and visual `needs-review`
+- scan 88 — section (8) closes
+- scan 89 — section (9) begins
+- 90→91 — CLEAN; police-search scene continues but no sentence/quoted block is split across the boundary
 
-Next: **Pass 1 Batch 009 — scans 81–90**.
+Next: **Pass 1 Batch 010 — scans 91–100**.
