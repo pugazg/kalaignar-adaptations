@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தாய் காவியம் / Part001 Pass1 Batch10 — scans91–100
+# NEXT CHAT PROMPT — தாய் காவியம் / Part001 Pass1 Batch11 — scans101–110
 
 Continue directly in `pugazg/kalaignar-adaptations`, branch `main`, active work `works/thaai-kaaviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,20 +31,21 @@ Follow the Kuraloviyam multi-PDF archival methodology:
 
 ## Durable Pass-1 state
 
-Batches 001–009 / scans **1–90** are **COMPLETE / PASS**.
+Batches 001–010 / scans **1–100** are **COMPLETE / PASS**.
 
-- page records — **90/135**
-- textual state — **90 needs-review**
-- visual state — **90 needs-review**
-- Batch 009 exact page-layer capture — **10 added page files / 10 commits**
-- scan 88 — section **(8)** closes
-- scan 89 — section **(9)** begins
-- scan 91 was inspected only as boundary witness and not captured
-- **90→91 CLEAN**
-- durable Batch 009 record — `works/thaai-kaaviyam/PASS1_BATCH_009.md`
+- page records — **100/135**
+- textual state — **100 needs-review**
+- visual state — **100 needs-review**
+- Batch 010 exact page-layer result — **10 added page files / 11 commits**, with the extra commit being a source-backed correction inside newly added scan 95
+- scan 95 — section **(9)** closes
+- scan 96 — section **(10)** begins
+- scan 100 — illustration-only page
+- scan 101 was inspected only as boundary witness and not captured
+- **100→101 CLEAN**
+- durable Batch 010 record — `works/thaai-kaaviyam/PASS1_BATCH_010.md`
 
 ## Exact next activity
 
-**Pass 1 Batch 010 — scans 91–100 / part pages 91–100.**
+**Pass 1 Batch 011 — scans 101–110 / part pages 101–110.**
 
 Create ten page-aligned Tamil records, preserving source-visible text, poetic lineation, page furniture, illustrations and continuations. New records remain `needs-review` / visual `needs-review`.
