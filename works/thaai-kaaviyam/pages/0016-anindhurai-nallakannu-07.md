@@ -6,12 +6,12 @@ printed_page: "xvii"
 work: "thaai-kaaviyam"
 section: "front-matter — அணிந்துரை — ஆர். நல்லகண்ணு"
 page_type: "foreword"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 visual_notes: "continuation of Nallakannu foreword; prose with centered Bharathidasan verse quotation; final sentence continues to next scan; printed roman page xvii"
 language: "ta"
 source_filename: "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf"
-transcription_method: "manual visual transcription from rendered source scan; Pass 1"
+transcription_method: "manual visual transcription from rendered source scan; Pass 1; formal Part001 Pass 2A reviewed"
 ---
 
 உலகெங்கும் பரவிக்கிடக்கும் உழைப்பாளர்களின் உரிமைக்குரல் ஒன்றுதான். அது சுரண்டலை எதிர்த்துத்தான் என்பதைத் தெளிவாக எடுத்துக்காட்டியிருக்கிறார்.
@@ -32,6 +32,17 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 “இந்தப் பாடலுக்கு இசையமைத்துப் பாடினால் இப்பாட்டு இந்த உலகில் எந்தக் கோடியில் இருக்கும் உழைக்கும் தோழர்களையும் ஒன்றுசேர்க்குமே; நம் எண்ணம் நன்கு பலிக்குமே” என்று உறுதிபடக் கூறுகிறார். முத்தமிழறிஞர் கலைஞர் எனும் இலக்கியப் படைப்பாளியின் எண்ணம் நிச்சயம் ஈடேறும்! சோஷலிசக் கருத்துக்கள் அந்நியமானதல்ல; உலக மக்களின் வாழ்வில் ஒளியேற்றும் சமுதாய மாற்றத்துக்கும் நல்வாழ்க்கைக்கும் அடித்தளமாக அமையும். சோஷலிசம் என்பது தமிழ் இலக்கியத்தின் இலட்சிய நோக்குக்கும் இசைவானதே என்பதை ‘தாய்’ கவிதைக் காவியத்தின் மூலம் கலைஞர் தெளிவுபடுத்தியிருக்கிறார்.
 
 கார்க்கியின் ‘தாய்’ நாவலின் நூற்றாண்டு நினைவாகவும், தமிழ்க்கவிதைக் காவியமாக மலர்ந்துள்ளதாக்கக் கருதலாம்;
+
+
+## Formal Part001 Pass 2A review
+
+- direct source-pixel comparison completed against rendered scan 16;
+- spelling, punctuation, source-visible spacing / word boundaries, displayed hierarchy, page structure, printed pagination, illustrations/non-body separation and physical page-end state were checked;
+- source-backed corrections in this scan — **0**;
+- unresolved textual questions — **0**;
+- Pass 2A result — **REVIEWED / PASS**;
+- textual `status` — **verified**;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
 
 <!-- தொடர்ச்சி அடுத்த மூல ஸ்கேனில். -->
 <!-- மூல ஸ்கேன் பக்கம்: 16; அச்சுப் பக்கம்: xvii -->
