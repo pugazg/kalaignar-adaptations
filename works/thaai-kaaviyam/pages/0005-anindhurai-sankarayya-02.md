@@ -6,12 +6,12 @@ printed_page: "vi"
 work: "thaai-kaaviyam"
 section: "front-matter — அணிந்துரை — என். சங்கரய்யா"
 page_type: "foreword"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 visual_notes: "continuation of foreword; prose with two indented/centered verse quotations; printed roman page vi"
 language: "ta"
 source_filename: "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf"
-transcription_method: "manual visual transcription from rendered source scan; Pass 1"
+transcription_method: "manual visual transcription from rendered source scan; Pass 1; formal Part001 Pass 2A reviewed"
 ---
 
 “தாய்” காவியம் உலகில் பல மொழிகளில் மொழி பெயர்க்கப்பட்டுள்ளது. பலகோடி பேர் படித்து விட்டார்கள், படிக்கிறார்கள், இனியும் படிப்பார்கள். இதற்கு அடிப்படை காரணம் என்ன?
@@ -40,5 +40,16 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 > “கண்ணை மெல்ல மூடியிருந்த அவன் கன்னத்தில்  
 > காம்பில்லா மல்லிகை மொட்டொன்று விழுந்தது  
 > கண்ணீர் துளிக்கும் காம்பில்லை அல்லவா?”
+
+
+## Formal Part001 Pass 2A review
+
+- direct source-pixel comparison completed against rendered scan 5;
+- spelling, punctuation, source-visible word boundaries, displayed hierarchy/page structure, printed pagination, illustrations/non-printed marks and physical page state were checked;
+- source-backed corrections in this scan — **0**;
+- unresolved textual questions — **0**;
+- Pass 2A result — **REVIEWED / PASS**;
+- textual `status` — **verified**;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
 
 <!-- மூல ஸ்கேன் பக்கம்: 5; அச்சுப் பக்கம்: vi -->
