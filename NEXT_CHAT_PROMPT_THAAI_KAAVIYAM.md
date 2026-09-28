@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தாய் காவியம் / Part001 Pass1 Batch13 — scans121–130
+# NEXT CHAT PROMPT — தாய் காவியம் / Part001 Pass1 Batch14 FINAL — scans131–135
 
 Continue directly in `pugazg/kalaignar-adaptations`, branch `main`, active work `works/thaai-kaaviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,22 +31,20 @@ Follow the Kuraloviyam multi-PDF archival methodology:
 
 ## Durable Pass-1 state
 
-Batches 001–012 / scans **1–120** are **COMPLETE / PASS**.
+Batches 001–013 / scans **1–130** are **COMPLETE / PASS**.
 
-- page records — **120/135**
-- textual state — **120 needs-review**
-- visual state — **120 needs-review**
-- Batch 012 exact page-layer result — **10 added page files / 10 commits**
-- scan 116 — section **(12)** closes
-- scan 117 — section **(13)** begins
-- scans 118–119 — illustration-only pages
-- scan 120 — text resumes with a non-printed purple circular library stamp
-- scan 121 was inspected only as boundary witness and not captured
-- **120→121 CLEAN**
-- durable Batch 012 record — `works/thaai-kaaviyam/PASS1_BATCH_012.md`
+- page records — **130/135**
+- textual state — **130 needs-review**
+- visual state — **130 needs-review**
+- Batch 013 exact page-layer result — **10 added page files / 10 commits**
+- scan 124 — section **(13)** closes
+- scan 125 — section **(14)** begins
+- scan 131 was inspected only as boundary witness and not captured
+- **130→131 GENUINE CONTINUATION**
+- durable Batch 013 record — `works/thaai-kaaviyam/PASS1_BATCH_013.md`
 
 ## Exact next activity
 
-**Pass 1 Batch 013 — scans 121–130 / part pages 121–130.**
+**Pass 1 Batch 014 FINAL — scans 131–135 / part pages 131–135.**
 
-Create ten page-aligned Tamil records, preserving source-visible text, poetic lineation, page furniture, illustrations and continuations. New records remain `needs-review` / visual `needs-review`.
+Create the final five page-aligned Tamil records for Part 001, preserving source-visible text, poetic lineation, page furniture, illustrations and continuations. New records remain `needs-review` / visual `needs-review`. Do not infer or resolve the 135→Part002 boundary until Part002 is supplied.
