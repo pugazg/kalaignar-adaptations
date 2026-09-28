@@ -6,12 +6,12 @@ printed_page: "xi"
 work: "thaai-kaaviyam"
 section: "front-matter — அணிந்துரை — ஆர். நல்லகண்ணு"
 page_type: "foreword"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 visual_notes: "new red heading அணிந்துரை; author and affiliations right-aligned; purple library stamp overlaps upper-right heading/author area; prose body; printed roman page xi"
 language: "ta"
 source_filename: "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf"
-transcription_method: "manual visual transcription from rendered source scan; Pass 1"
+transcription_method: "manual visual transcription from rendered source scan; Pass 1; formal Part001 Pass 2A reviewed"
 ---
 
 # அணிந்துரை
@@ -32,5 +32,16 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 ## Non-printed mark
 
 A purple library stamp overlaps the upper-right heading/author area. It is not transcribed as printed body text.
+
+
+## Formal Part001 Pass 2A review
+
+- direct source-pixel comparison completed against rendered scan 10;
+- spelling, punctuation, source-visible word boundaries, displayed hierarchy/page structure, printed pagination, illustrations/non-printed marks and physical page state were checked;
+- source-backed corrections in this scan — **0**;
+- unresolved textual questions — **0**;
+- Pass 2A result — **REVIEWED / PASS**;
+- textual `status` — **verified**;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
 
 <!-- மூல ஸ்கேன் பக்கம்: 10; அச்சுப் பக்கம்: xi -->
