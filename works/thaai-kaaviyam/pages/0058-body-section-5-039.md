@@ -6,12 +6,12 @@ printed_page: "39"
 work: "thaai-kaaviyam"
 section: "main-body — section 5"
 page_type: "poetic-body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 visual_notes: "section marker (5) centered near top; visitors sit around the meal table; playful exchange about the red-haired youth; running header; printed page 39"
 language: "ta"
 source_filename: "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf"
-transcription_method: "manual visual transcription from rendered source scan; Pass 1"
+transcription_method: "manual visual transcription from rendered source scan; Pass 1; formal Part001 Pass 2A reviewed"
 ---
 
 ## (5)
@@ -45,6 +45,17 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 செம்பட்டைத் தலையனின்  
 இந்தப் பதில் வார்த்தை கேட்டு
+
+
+## Formal Part001 Pass 2A review
+
+- direct source-pixel comparison completed against rendered scan 58;
+- spelling, punctuation, source-visible spacing / word boundaries, displayed hierarchy, page structure, printed pagination, illustration/non-body separation and physical page-end state were checked;
+- source-backed corrections in this scan — **0**;
+- unresolved textual questions — **0**;
+- Pass 2A result — **REVIEWED / PASS**;
+- textual `status` — **verified**;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
 
 <!-- தொடர்ச்சி அடுத்த மூல ஸ்கேனில். -->
 <!-- மூல ஸ்கேன் பக்கம்: 58; அச்சுப் பக்கம்: 39 -->
