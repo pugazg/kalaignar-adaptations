@@ -28,13 +28,14 @@ Visible structure established at intake:
 
 ## Current phase
 
-**Part 001 Pass 1 ACTIVE — 130/135 captured.**
+**Part 001 Pass 1 — COMPLETE / PASS 135/135.**
 
-- Batches 001–013 / scans 1–130 — COMPLETE / PASS
-- all 130 page records remain textual `needs-review` and visual `needs-review`
-- scan 124 — section (13) closes
-- scan 125 — section (14) begins
-- 130→131 — GENUINE CONTINUATION; the sentence is split across the batch boundary
-- only scans 131–135 remain in Part 001 Pass 1
+- Batches 001–014 — COMPLETE / PASS
+- page records — **135/135**
+- all records remain textual `needs-review` and visual `needs-review` pending later-pass verification
+- scan 131 — section (14) closes
+- scan 132 — section (15) begins
+- 135→Part002 — UNRESOLVED / NOT AUDITABLE
+- completion record — `PART_001_PASS1_COMPLETE.md`
 
-Next: **Pass 1 Batch 014 FINAL — scans 131–135**.
+Next: **Pass 2A Batch 001 — scans 1–10 / part pages 1–10**.
