@@ -22,21 +22,21 @@ Source: `TVA_BOK_0065557_கலைஞரின்_கவிதை_நடைய�
 
 ## Part001 Pass 2A
 
-- **ACTIVE — 60/135 REVIEWED**
-- Batches001–006 / scans **1–60 — COMPLETE / REVIEWED / PASS**
-- cumulative source-backed corrections — **53**
-- Batch006 corrections — **6**
-- Batch006 correction scans — **51, 56, 59, 60**
-- textual status — **60 verified / 75 needs-review**
+- **ACTIVE — 70/135 REVIEWED**
+- Batches001–007 / scans **1–70 — COMPLETE / REVIEWED / PASS**
+- cumulative source-backed corrections — **59**
+- Batch007 corrections — **6**
+- Batch007 correction scans — **61, 62, 65, 68, 70**
+- textual status — **70 verified / 65 needs-review**
 - visual fidelity — **135 needs-review**
 - unresolved textual questions — **0**
 - progress control — `works/thaai-kaaviyam/PART_001_PASS2A_PROGRESS.md`
-- latest audit — `works/thaai-kaaviyam/PASS2A_BATCH_006.md`
+- latest audit — `works/thaai-kaaviyam/PASS2A_BATCH_007.md`
 
 Part 002 and Part 003 metadata/ranges remain intentionally unknown until upload.
 
 ## Next activity
 
-**Part 001 Pass 2A Batch 007 — scans 61–70 / part pages 61–70.**
+**Part 001 Pass 2A Batch 008 — scans 71–80 / part pages 71–80.**
 
 Strictly compare those existing records against rendered source pixels and apply only source-backed corrections. Do not begin Pass 2B.
