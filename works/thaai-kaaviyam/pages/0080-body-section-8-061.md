@@ -6,12 +6,12 @@ printed_page: "61"
 work: "thaai-kaaviyam"
 section: "main-body — section 8"
 page_type: "poetic-body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 visual_notes: "section marker (8) centered near top; Nilovna comforts Andri; after a three-star separator a new passage begins about a blue-ink leaflet; final line completes before next scan; running header; printed page 61"
 language: "ta"
 source_filename: "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf"
-transcription_method: "manual visual transcription from rendered source scan; Pass 1"
+transcription_method: "manual visual transcription from rendered source scan; Pass 1; formal Part001 Pass 2A reviewed"
 ---
 
 ## (8)
@@ -46,8 +46,20 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 நெருப்பு மொழியில்  
 நினைத்த நேரமெல்லாம் வெளிவருவதுண்டு  
 நேற்று வந்தது இதுவென்று  
-நெஞ்சாலையில் சில பேர்  
+நெடுஞ்சாலையில் சில பேர்  
 பாவெல் வீட்டுக்கு முன்  
 உரக்கப் படித்தவாறு போனார்கள்
+
+
+## Formal Part001 Pass 2A review
+
+- direct source-pixel comparison completed against rendered scan 80;
+- spelling, punctuation, source-visible spacing / word boundaries, displayed hierarchy, page structure, printed pagination, illustration/non-body separation and physical page-end state were checked;
+- source-backed corrections in this scan — **1**;
+- `நெஞ்சாலையில் சில பேர்` → **`நெடுஞ்சாலையில் சில பேர்`**;
+- unresolved textual questions — **0**;
+- Pass 2A result — **REVIEWED / PASS**;
+- textual `status` — **verified**;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
 
 <!-- மூல ஸ்கேன் பக்கம்: 80; அச்சுப் பக்கம்: 61 -->
