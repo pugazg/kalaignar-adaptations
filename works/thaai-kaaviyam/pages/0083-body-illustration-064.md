@@ -6,12 +6,12 @@ printed_page: "64"
 work: "thaai-kaaviyam"
 section: "main-body — section 8"
 page_type: "poetic-illustrated"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 visual_notes: "authorities react to the leaflet; verse above large colour illustration of Nilovna touching Pavel's face; running header; printed page 64"
 language: "ta"
 source_filename: "TVA_BOK_0065557_கலைஞரின்_கவிதை_நடையில்_தாய்_காவியம்_part_001_pages_1-135.pdf"
-transcription_method: "manual visual transcription from rendered source scan; Pass 1"
+transcription_method: "manual visual transcription from rendered source scan; Pass 1; formal Part001 Pass 2A reviewed"
 ---
 
 “கண்டுபிடிக்க வேண்டும்; எங்கிருந்து வருகிறது?  
@@ -27,5 +27,16 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 ## Visual material
 
 Large colour illustration below the text: Nilovna bends toward Pavel and touches his face while he sits and looks up at her.
+
+
+## Formal Part001 Pass 2A review
+
+- direct source-pixel comparison completed against rendered scan 83;
+- spelling, punctuation, source-visible spacing / word boundaries, displayed hierarchy, page structure, printed pagination, illustration/non-body separation and physical page-end state were checked;
+- source-backed corrections in this scan — **0**;
+- unresolved textual questions — **0**;
+- Pass 2A result — **REVIEWED / PASS**;
+- textual `status` — **verified**;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
 
 <!-- மூல ஸ்கேன் பக்கம்: 83; அச்சுப் பக்கம்: 64 -->
