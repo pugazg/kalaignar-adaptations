@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — தாய் காவியம் / Part001 Pass2A Batch7 — scans61–70
+# NEXT CHAT PROMPT — தாய் காவியம் / Part001 Pass2A Batch8 — scans71–80
 
 Continue directly in `pugazg/kalaignar-adaptations`, branch `main`, active work `works/thaai-kaaviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,24 +28,24 @@ Follow the Kuraloviyam multi-PDF archival methodology:
 
 ## Durable Pass2A state
 
-Batches001–006 / scans **1–60** — **COMPLETE / REVIEWED / PASS**.
+Batches001–007 / scans **1–70** — **COMPLETE / REVIEWED / PASS**.
 
-- Pass2A reviewed — **60/135**
-- remaining — **75/135**
-- cumulative source-backed corrections — **53**
-- Batch006 corrections — **6**
-- Batch006 correction scans — **51, 56, 59, 60**
-- zero-correction scans in Batch006 — **52, 53, 54, 55, 57, 58**
-- textual status — **60 verified / 75 needs-review**
+- Pass2A reviewed — **70/135**
+- remaining — **65/135**
+- cumulative source-backed corrections — **59**
+- Batch007 corrections — **6**
+- Batch007 correction scans — **61, 62, 65, 68, 70**
+- zero-correction scans in Batch007 — **63, 64, 66, 67, 69**
+- textual status — **70 verified / 65 needs-review**
 - visual fidelity — **135 needs-review**
 - unresolved textual questions — **0**
-- Batch006 audit — `works/thaai-kaaviyam/PASS2A_BATCH_006.md`
+- Batch007 audit — `works/thaai-kaaviyam/PASS2A_BATCH_007.md`
 - progress control — `works/thaai-kaaviyam/PART_001_PASS2A_PROGRESS.md`
 
 Do not infer Part002 or Part003 metadata.
 
 ## Exact next activity
 
-**Pass 2A Batch 007 — scans 61–70 / part pages 61–70.**
+**Pass 2A Batch 008 — scans 71–80 / part pages 71–80.**
 
-Strictly compare exactly those ten existing page records against rendered source scans for spelling, punctuation, source-specific spacing / word boundaries, displayed hierarchy, page structure, printed pagination, illustration/non-body separation and physical page-end state. Apply only source-backed corrections. Set reviewed textual records to the Pass2A-appropriate state while leaving visual fidelity for later gates. Do not review scan71 or begin Pass2B in this iteration.
+Strictly compare exactly those ten existing page records against rendered source scans for spelling, punctuation, source-specific spacing / word boundaries, displayed hierarchy, page structure, printed pagination, illustration/non-body separation and physical page-end state. Apply only source-backed corrections. Set reviewed textual records to the Pass2A-appropriate state while leaving visual fidelity for later gates. Do not review scan81 or begin Pass2B in this iteration.
