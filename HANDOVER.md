@@ -29,16 +29,16 @@ Do not treat the split PDFs as separate works or volumes.
 ### Part001 state
 
 - Pass 1 — **COMPLETE / PASS — 135/135**
-- Pass 2A — **ACTIVE — 80/135 REVIEWED**
-- Batches001–008 / scans **1–80 — COMPLETE / REVIEWED / PASS**
-- cumulative Pass2A corrections — **62**
-- textual status — **80 verified / 55 needs-review**
+- Pass 2A — **ACTIVE — 90/135 REVIEWED**
+- Batches001–009 / scans **1–90 — COMPLETE / REVIEWED / PASS**
+- cumulative Pass2A corrections — **70**
+- textual status — **90 verified / 45 needs-review**
 - visual fidelity — **135 needs-review**
 - Pass2B / Pass3 — **NOT STARTED**
 - Part 002 and Part 003 metadata/ranges remain intentionally unknown until upload.
 
 ## Exact next activity
 
-**Part 001 Pass 2A Batch 009 — scans 81–90 / part pages 81–90.**
+**Part 001 Pass 2A Batch 010 — scans 91–100 / part pages 91–100.**
 
 Review exactly ten existing records against rendered source pixels. Apply only source-backed corrections and do not begin Pass 2B.
