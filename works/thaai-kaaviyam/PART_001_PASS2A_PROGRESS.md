@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — ACTIVE — 90/135 REVIEWED**
+**PASS 2A — ACTIVE — 100/135 REVIEWED**
 
 Prerequisite:
 
@@ -17,8 +17,8 @@ For each reviewed scan, the existing canonical record is compared directly again
 
 ## Accounting
 
-- reviewed — **90/135 — scans 1–90**
-- remaining — **45/135**
+- reviewed — **100/135 — scans 1–100**
+- remaining — **35/135**
 - Batch001 corrections — **10**
 - Batch002 corrections — **10**
 - Batch003 corrections — **10**
@@ -28,14 +28,15 @@ For each reviewed scan, the existing canonical record is compared directly again
 - Batch007 corrections — **6**
 - Batch008 corrections — **3**
 - Batch009 corrections — **8**
-- cumulative Pass2A corrections — **70**
-- Batch009 correction scans — **81, 84, 86, 87, 89, 90**
-- Batch009 zero-correction scans — **82, 83, 85, 88**
+- Batch010 corrections — **5**
+- cumulative Pass2A corrections — **75**
+- Batch010 correction scans — **91, 94, 97, 99**
+- Batch010 zero-correction scans — **92, 93, 95, 96, 98, 100**
 - unresolved textual questions — **0**
-- textual status — **90 verified / 45 needs-review**
+- textual status — **100 verified / 35 needs-review**
 - visual fidelity — **135 needs-review**
 - Pass2B / Pass3 — **NOT STARTED**
-- Batch009 record — `works/thaai-kaaviyam/PASS2A_BATCH_009.md`
+- Batch010 record — `works/thaai-kaaviyam/PASS2A_BATCH_010.md`
 
 ## Batch ledger
 
@@ -50,14 +51,14 @@ For each reviewed scan, the existing canonical record is compared directly again
 | P2A-07 | 61–70 | COMPLETE / REVIEWED / PASS |
 | P2A-08 | 71–80 | COMPLETE / REVIEWED / PASS |
 | P2A-09 | 81–90 | COMPLETE / REVIEWED / PASS |
-| P2A-10 | 91–100 | NEXT |
-| P2A-11 | 101–110 | pending |
+| P2A-10 | 91–100 | COMPLETE / REVIEWED / PASS |
+| P2A-11 | 101–110 | NEXT |
 | P2A-12 | 111–120 | pending |
 | P2A-13 | 121–130 | pending |
 | P2A-14 | 131–135 | pending |
 
 ## Exact next activity
 
-**Pass 2A Batch 010 — scans 91–100 / part pages 91–100.**
+**Pass 2A Batch 011 — scans 101–110 / part pages 101–110.**
 
-Do not review scan 101 or begin Pass 2B in the same iteration.
+Do not review scan 111 or begin Pass 2B in the same iteration.
